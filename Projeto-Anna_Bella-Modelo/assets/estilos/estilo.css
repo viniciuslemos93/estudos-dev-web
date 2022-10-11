@@ -1,48 +1,37 @@
-body {
-    background-image: url('../imagens/fundo.png');
-    text-align: center;
-    font-size: 16px;
-}
-#menu {
+#menu { /*Estilização da barra de menu*/
     background: #c5c5b2;
     padding: 15px;
     width: 875px;
     margin: auto;
-    /*
-    margin: auto;
-    width: 900px;
-    height: 75px;
-    background-color: #d2d2c0;
-    display: flex;
-    flex-basis: auto;
-    justify-content: center;
-    align-items: center;*/
 }
-.item-menu {    
+.item-menu { /*Estilização de cada ítem de menu*/
     font-weight: bold;
     text-decoration: none;        
     color: #4B566A;
     padding: 5px;
-
 }
-.conteudo {
+body { /*Estilização do corpo do site*/
+    background-image: url('../imagens/fundo.png');
+    text-align: center;
+    font-size: 16px;
+}
+.conteudo { /*Estilização do conteúdo*/
     background-color: #e8e8d9;
     width: 885px;
     margin: auto;
     padding: 10px;
     text-align: left;
 }
-footer {
+footer { /*Estilização rodapé*/
     font-weight: bold;
     text-align: center;
     padding-top: 10px;
 }
-h1 {
+h1 { /*Estilização dos títulos nível 1*/
     color: #828271;
     font-size: 1.2em;
     text-align: left;
 }
-.img-campanha {
+.img-campanha { /*Estilização das imagens das campanhas*/
     border: 10px solid #c3c3ae;
-
 }
