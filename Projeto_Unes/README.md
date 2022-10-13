@@ -10,7 +10,7 @@ Usando apenas o HTML.
 
 <h3> Projeto desenvolvido no dia 25/09/2022. </h3>
 <hr>
-Deploy: https://github.com/viniciuslemos93/estudos-dev-web/Projeto_Unes/
+Deploy: https://viniciuslemos93.github.io/estudos-dev-web/Projeto_Unes/
 <h1 align="center">Print do Resultado</h1>
 <div align="center">
 <img align="center" alt="Design do site" height="400" width="500" src="./assets/imagens/print-resultado.PNG">
