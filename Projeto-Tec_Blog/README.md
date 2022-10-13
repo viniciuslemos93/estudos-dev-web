@@ -12,11 +12,11 @@ Este foi o terceiro projeto desenvolvido durante o curso de Desenvolvimendo Web 
 
 <h3> Projeto desenvolvido no dia 06/10/2022. </h3>
 <hr>
-Deploy: https://github.com/viniciuslemos93/estudos-dev-web/Projeto-Anna_Bella-Modelo
+Deploy: https://github.com/viniciuslemos93/estudos-dev-web/Projeto-Tec_Blog/
 <h1 align="center">Print do Resultado</h1>
 <div align="center">
 <img align="center" alt="Design do site" height="400" width="500" src="./assets/imagens/print-resultado.PNG">
-</div
+</div>
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br>
