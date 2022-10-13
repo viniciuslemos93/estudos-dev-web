@@ -12,7 +12,7 @@ Este foi o segundo projeto desenvolvido durante o curso de Desenvolvimendo Web q
 Deploy: https://github.com/viniciuslemos93/estudos-dev-web/Projeto-Anna_Bella-Modelo
 <h1 align="center">Print do Resultado</h1>
 <div align="center">
-<img align="center" alt="Design do site" height="400" width="500" src="./imagens/print-resultado.PNG">
+<img align="center" alt="Design do site" height="400" width="500" src="./assets/imagens/print-resultado.PNG">
 </div
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
