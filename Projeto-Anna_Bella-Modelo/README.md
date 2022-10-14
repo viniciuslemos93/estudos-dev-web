@@ -13,7 +13,7 @@ Deploy: https://viniciuslemos93.github.io/estudos-dev-web/Projeto-Anna_Bella-Mod
 <h1 align="center">Print do Resultado</h1>
 <div align="center">
 <img align="center" alt="Design do site" height="400" width="500" src="./assets/imagens/print-resultado.PNG">
-</div
+</div>
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br>
