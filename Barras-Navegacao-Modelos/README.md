@@ -19,7 +19,7 @@ Deploy Navegação com Abas: https://viniciuslemos93.github.io/estudos-dev-web/n
 <h1 align="center">Print do Resultado</h1>
 <div align="center">
 <img align="center" alt="Print dos 3 Modelos" height="400" width="500" src="print-resultado-3-projetos.PNG">
-</div
+</div>
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
      <div style="display: inline_block margin-left:auto margin-rigth:auto"><br>
