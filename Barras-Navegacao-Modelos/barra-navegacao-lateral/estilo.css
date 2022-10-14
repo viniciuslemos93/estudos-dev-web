@@ -1,0 +1,42 @@
+/*Barra de Navegação Vertical*/
+/*
+ul#menu {
+    border: 1px solid red;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    padding: 10px 20px;
+    background: url(imagens/seta.png) no-repeat left center;
+}*/
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ul a {
+    width: 200px;
+    height: 40px;
+    border: 1px solid red;
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-indent: 40px;
+    line-height: 40px; /*centraliza a altura do texto - no caso colocando o mesmo valor de height do elemento*/
+    background: #f7b600 url(imagens/menu.png) no-repeat left bottom;/*Caso a foto menu.png não carregar, será colocado no backgroun a cor #f7b600*/
+}
+a:hover, .selecionado a { /*Criamos uma formatação para o link selecionado, com o mesmo estado do Hover*/
+    background-position: right bottom;
+    background-color: #f99200; /*Caso a imagem não carregue, será colocado este background*/
+    color: #fff;
+}
+#home #navegacao .home a,
+#sobre #navegacao .sobre a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a,
+#contato #navegacao .contato a{
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #fff;
+}
