@@ -13,7 +13,9 @@ Desenvolvemos 3 modelos de menu de navegação, utilizando
 <h3> Estes 3 projetos foram desenvolvidos no dia 13/10/2022. </h3>
 <hr>
 Deploy Barra de Navegação Horizontal: https://viniciuslemos93.github.io/estudos-dev-web/barra-navegacao-horizontal/
+
 Deploy Barra de Navegação Lateral: https://viniciuslemos93.github.io/estudos-dev-web/barra-navegacao-lateral/
+
 Deploy Navegação com Abas: https://viniciuslemos93.github.io/estudos-dev-web/navegacao-com-abas/
 
 <h1 align="center">Print do Resultado</h1>
