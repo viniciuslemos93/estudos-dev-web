@@ -14,9 +14,11 @@ Desenvolvemos 3 modelos de menu de navegação, utilizando
 <hr>
 
 Deploy Barra de Navegação Horizontal: https://viniciuslemos93.github.io/estudos-dev-web/Barras-Navegacao-Modelos/barra-navegacao-horizontal/
-Deploy Barra de Navegação Lateral: https://viniciuslemos93.github.io/estudos-dev-web/Barras-Navegacao-Modelos/barra-navegacao-lateral/
-Deploy Navegação com Abas: https://viniciuslemos93.github.io/estudos-dev-web/Barras-Navegacao-Modelos/navegacao-com-abas/
 
+Deploy Barra de Navegação Lateral: https://viniciuslemos93.github.io/estudos-dev-web/Barras-Navegacao-Modelos/barra-navegacao-lateral/
+
+Deploy Navegação com Abas: https://viniciuslemos93.github.io/estudos-dev-web/Barras-Navegacao-Modelos/navegacao-com-abas/
+<hr>
 <h1 align="center">Print do Resultado</h1>
 <div align="center">
 <img align="center" alt="Print dos 3 Modelos" height="400" width="500" src="print-resultado-3-projetos.PNG">
