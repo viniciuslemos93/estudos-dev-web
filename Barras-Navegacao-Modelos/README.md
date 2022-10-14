@@ -2,9 +2,9 @@
 
 ![GitHub](https://img.shields.io/github/license/viniciuslemos93/estudos-dev-web)
 
-Desenvolvemos 3 modelos de menu de navegação, utilizando
+Desenvolvemos 3 modelos de menu de navegação, utilizando:
 
-- Usamos listas para criação dos Menus
+- Listas para criação dos Menus
 - Com efeito Hover
 - Ao clicar no ítem do menu, o mesmo fica selecionado
 
