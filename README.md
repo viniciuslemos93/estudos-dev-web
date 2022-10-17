@@ -3,7 +3,7 @@
 Repositório dedicado a projetos desenvolvidos relacionados a desenvolvimento Web.
 <hr>
 
-- Cada diretório contém seu respectivo README.
+<h2>Cada diretório contém seu respectivo README.</h2>
 
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
