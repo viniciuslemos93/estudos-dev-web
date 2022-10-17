@@ -20,9 +20,13 @@ Desenvolvido durante o curso de JavaScript do Curso em Vídeo
     </div>
 </div>
 Deploy: https://viniciuslemos93.github.io/estudos-dev-web/Analisador-de-Numeros/
+
 <hr>
+
 - Libera para o usuário inserir apenas números de 1 a 100
+
 Ao clicar em Finalizar, ele exibe:
+
 - A quantidade de números inseridos
 - O maior e o menor número que foi inserido
 - A soma total
