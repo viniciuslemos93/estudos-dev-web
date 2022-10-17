@@ -9,7 +9,7 @@ Desenvolvido durante o curso de JavaScript do Curso em Vídeo
 
 <h1 align="center">Gif do Resultado</h1>
 <div align="center">
-<img align="center" alt="Design do site" height="400" width="500" src="gif-resultado.gif">
+<img align="center" alt="Design do site" height="700" width="800" src="gif-resultado.gif">
 </div>
 <h2 align="center">Tecnologias Usadas</h2>
 <div align="center">
