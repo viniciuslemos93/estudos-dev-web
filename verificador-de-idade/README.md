@@ -19,7 +19,7 @@ Desenvolvido durante o curso de JavaScript do Curso em Vídeo
        <img align="center" alt="vinicius-javascript" height="40 widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />       
     </div>
 </div>
-Deploy: https://viniciuslemos93.github.io/estudos-dev-web/Analisador-de-Numeros/
+Deploy: https://viniciuslemos93.github.io/estudos-dev-web/verificador-de-idade/
 
 <hr>
 
