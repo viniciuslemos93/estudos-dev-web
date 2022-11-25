@@ -14,10 +14,16 @@ label {
     display: block;
     cursor: pointer;
 }
-input [type="text"] {/*Assim selecionamos apenas o input que o atributo é "text"*/
+/*input [type="text"] {Assim selecionamos apenas o input que o atributo é "text"
     width: 100%;
-}
+}*/
 textarea {
-    width: 100%;
+    width: 20em;
     height: 10em;
+}
+input.radio, input.checkbox, input.submit {
+    width: auto;
+}
+.radio {
+    margin-right: 1em;
 }
